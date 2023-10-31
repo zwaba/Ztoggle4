@@ -14,7 +14,7 @@ When the KILLSWITCH is engaged , the SELECT switch cuts audio when it’s on.
 Dwarf installation on a Mac:
 Open Terminal
 
-scp -rp <path to zwabo-ztoggle4.lv2> root@192.168.51.1:/root/.lv2
-Enter password "mod"
+scp -rp <path to hvcc-WOW.lv2 folder> root@192.168.51.1:/root/.lv2
+Enter password “mod”
 
 Reboot Mod
