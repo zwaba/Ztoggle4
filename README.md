@@ -10,3 +10,11 @@ The CYCLE selector has four modes :
 4) 1-2-3-4
 
 When the KILLSWITCH is engaged , the SELECT switch cuts audio when it’s on.
+
+Dwarf installation on a Mac:
+Open Terminal
+
+scp -rp <path to zwabo-ztoggle4.lv2> root@192.168.51.1:/root/.lv2
+Enter password "mod"
+
+Reboot Mod
