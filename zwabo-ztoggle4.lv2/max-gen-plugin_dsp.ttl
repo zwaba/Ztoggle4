@@ -96,7 +96,7 @@
 	lv2:portProperty lv2:integer, lv2:toggled, mod:preferMomentaryOnByDefault ;
     ] ;
 
-    rdfs:comment "Generated from Max gen~ and github.com/moddevices/max-gen-plugins" ;
+    rdfs:comment "Ztoggle4 gets one audio stream as input and chooses one of four outputs to route the audio. When the SELECT switch is activated (MIDI and CV assignable) the audio stream pass to the next output " ;
 
     mod:brand "zwabo" ;
     mod:label "Ztoggle4" ;
